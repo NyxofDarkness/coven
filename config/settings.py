@@ -33,7 +33,7 @@ INSTALLED_APPS = [
     # Local
     'accounts',
     'pages',
-    'coven',
+    'covens',
 ]
 
 # MIDDLEWARE
